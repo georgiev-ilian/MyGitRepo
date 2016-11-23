@@ -6,3 +6,22 @@
 .DS_Store
 /build
 /captures
+
+# Android Studio
+.idea/*
+.gradle/
+build/
+.settings
+bin/
+gen/
+gradle/
+.classpath
+local.properties
+gradlew
+gradlew.bat
+.project
+libs/libs.iml
+.idea/
+gradle.properties
+projectFilesBackup
+/.idea
