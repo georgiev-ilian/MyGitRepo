@@ -37,7 +37,7 @@ import java.util.List;
  */
 public class SettingsActivity extends AppCompatPreferenceActivity {
     /**
-	 * Do a conflict here.
+	 * Do a conflict here. And another conflict.
      * A preference value change listener that updates the preference's summary
      * to reflect its new value.
      */
