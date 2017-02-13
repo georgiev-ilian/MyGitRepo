@@ -38,8 +38,10 @@ import java.util.List;
 public class SettingsActivity extends AppCompatPreferenceActivity {
     /**
 	 * Do a conflict here. And another conflict.
+	 * I have to change this.
      * A preference value change listener that updates the preference's summary
      * to reflect its new value.
+	 * This is another change.
      */
     private static Preference.OnPreferenceChangeListener sBindPreferenceSummaryToValueListener = new Preference.OnPreferenceChangeListener() {
         @Override
