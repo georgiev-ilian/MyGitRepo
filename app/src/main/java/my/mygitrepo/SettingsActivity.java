@@ -43,6 +43,7 @@ public class SettingsActivity extends AppCompatPreferenceActivity {
      * to reflect its new value.
 	 * This is another change.
      * Add comment from Ivan Ivanov #1.
+	 * Add comment from Gosho #1
      *
      * One change for commit. #1
      * Second change for commit. #2
