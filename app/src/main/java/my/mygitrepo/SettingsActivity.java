@@ -45,6 +45,7 @@ public class SettingsActivity extends AppCompatPreferenceActivity {
      * Add comment from Ivan Ivanov #1.
      *
      * One change for commit. #1
+     * Second change for commit. #2
      */
     private static Preference.OnPreferenceChangeListener sBindPreferenceSummaryToValueListener = new Preference.OnPreferenceChangeListener() {
         @Override
