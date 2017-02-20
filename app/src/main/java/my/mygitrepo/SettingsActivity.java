@@ -50,6 +50,9 @@ public class SettingsActivity extends AppCompatPreferenceActivity {
      * change for commit. #4
      *
      * Add some debugging.
+     *
+     * Advance line #1
+     * Advance line #2
      */
     private static Preference.OnPreferenceChangeListener sBindPreferenceSummaryToValueListener = new Preference.OnPreferenceChangeListener() {
         @Override
